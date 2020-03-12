@@ -13,5 +13,3 @@ def knowledge
 end 
   
 end 
-
-end
