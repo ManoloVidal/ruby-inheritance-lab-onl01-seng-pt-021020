@@ -9,8 +9,8 @@ def learn(string)
 
 end 
   
-def knowledge
-  self.knowledge 
+def self.knowledge
+  @knowledge
 end 
   
 end 
