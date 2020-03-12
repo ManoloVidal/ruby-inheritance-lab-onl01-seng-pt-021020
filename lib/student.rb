@@ -9,6 +9,8 @@ def learn
 end 
   
 def knowledge
+  self.knowledge 
+end 
   
 end 
 
